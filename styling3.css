@@ -3,8 +3,24 @@ header >div{
     text-align: center;
 }
 body{
-    background-color: blue;
+    background-color: aqua;
 }
 footer{
-   background-color: brown; 
+    text-align: center;
+    background-color: bisque;
+    margin-left: auto;
+    border-radius: 10px;
+}
+footer >div >p{
+    margin-top: 0px;
+}
+.recipes{
+    margin: 3px;
+}
+.chiken-image{
+    text-align: center;
+}
+main >div >ul >li h4{
+   background-color: rgb(154, 105, 31);
+   border-radius: 5px; 
 }
